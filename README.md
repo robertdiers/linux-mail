@@ -2,6 +2,8 @@
 
 A simple framework to send mails using native Linux features.
 
-##### Usage (Linux OS required)
-* java -jar linux-mail.jar from to subject contentfile
-* use LinuxMailer in your application
+```shell
+java -jar linux-mail.jar from to subject contentfile
+```
+
+or use LinuxMailer class in your application
