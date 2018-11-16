@@ -7,3 +7,5 @@ java -jar linux-mail.jar from to subject contentfile
 ```
 
 or use LinuxMailer class in your application
+
+[Download](target/linux-mail.jar)
